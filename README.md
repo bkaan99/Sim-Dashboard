@@ -1,3 +1,3 @@
 # Sim-Dashboard
 
-We are maked Dashboard for SimRacers
+We are made Dashboard for SimRacers
